@@ -1,5 +1,5 @@
-Ansible Role: Ruby
-=========
+ansible-role-ruby
+=================
 
 An Ansible Role that installs Ruby programming language (https://www.ruby-lang.org/en/).
 
