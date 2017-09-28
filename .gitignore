@@ -1,2 +1,10 @@
+# Vagrant
 .vagrant
 *.retry
+*.log
+
+# Molecule
+.molecule
+tests/.cache
+.cache
+__pycache__
